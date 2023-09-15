@@ -15,7 +15,7 @@ O curso é uma oportunidade empolgante de aprender Python, uma linguagem de prog
 
 ## Progresso Atual
 
-Neste momento, estou no início do curso e estou ansioso para mergulhar de cabeça neste emocionante mundo da programação Python.
+Neste momento, estou no início do curso e estou ansiosa para mergulhar de cabeça neste emocionante mundo da programação Python.
 
 ## Contato
 
