@@ -23,8 +23,6 @@ Sinta-se à vontade para entrar em contato comigo se você estiver fazendo o mes
 
 **E-mail:** liviadsa50@gmail.com
 
-Estou animado para ver para onde esse curso me levará e estou ansioso para compartilhar meu crescimento e conquistas neste repositório. Vamos aprender Python juntos!
-
 ## Aula 6 - Tipos Primitivos
 int (inteiro): Representa números inteiros, positivos ou negativos, sem casas decimais.
 
